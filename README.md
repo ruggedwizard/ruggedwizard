@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning and Solving Problesm
 - 🌱 I’m currently learning Javascript, yes! it never end
 - 💞️ I’m looking to collaborate on Javascript Projects 
-- 📫 How to reach me on davidisaac081@gmail.com 
+- 📫 How to reach me on davidisaacsurvive@gmail.com 
 
 
 <!---
